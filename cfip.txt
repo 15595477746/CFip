@@ -27,7 +27,6 @@ cmcc.090227.xyz
 cf.zhetengsha.eu.org
 xn--b6gac.eu.org
 cfip.1323123.xyz
-cf.515188.xyz
 cf.0sm.com
 cf.877771.xyz
 40.83.122.22:8443
