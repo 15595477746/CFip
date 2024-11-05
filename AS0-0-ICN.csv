@@ -1,0 +1,18 @@
+﻿IP地址,端口,回源端口,TLS,数据中心,地区,国家,城市,TCP延迟(ms),速度(MB/s)
+59.3.3.161,443,443,true,ICN,Asia Pacific,KR,Seoul,101,19.19
+8.223.115.179,80,80,false,ICN,Asia Pacific,KR,Seoul,68,17.57
+52.231.97.210,2053,443,true,ICN,Asia Pacific,KR,Seoul,124,14.79
+4.230.32.162,443,443,true,ICN,Asia Pacific,KR,Seoul,125,13.70
+61.111.247.253,587,443,true,ICN,Asia Pacific,KR,Seoul,79,9.85
+185.214.103.210,29862,443,true,ICN,Asia Pacific,KR,Seoul,143,4.52
+210.87.195.160,587,443,true,ICN,Asia Pacific,KR,Seoul,78,3.74
+43.133.70.168,8443,8443,true,ICN,Asia Pacific,KR,Seoul,201,2.79
+45.141.139.150,47394,443,true,ICN,Asia Pacific,KR,Seoul,101,2.67
+45.154.14.124,587,443,true,ICN,Asia Pacific,KR,Seoul,88,2.07
+20.41.104.196,443,443,true,ICN,Asia Pacific,KR,Seoul,93,1.99
+43.133.67.59,443,443,true,ICN,Asia Pacific,KR,Seoul,203,1.78
+185.213.62.199,39584,443,true,ICN,Asia Pacific,KR,Seoul,78,0.91
+193.122.100.30,2053,443,true,ICN,Asia Pacific,KR,Seoul,84,0.37
+193.122.107.147,443,0,true,ICN,Asia Pacific,KR,Seoul,73,0.05
+64.110.79.188,443,443,true,ICN,Asia Pacific,KR,Seoul,84,0.00
+193.123.233.143,2096,80,false,ICN,Asia Pacific,KR,Seoul,75,0.00
